@@ -9,10 +9,7 @@
   <summary><b>My Github Stats</b></summary>
   <img alt="sandrocods github stats" src="https://github-readme-stats.vercel.app/api?username=sandrocods&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrocods&layout=compact&hide_border=true"/>
-   <summary><b>Updated repository</b></summary>
-   <p align="center">
-  <img alt="Pinned Repository" src="https://github-readme-stats.vercel.app/api/pin/?username=sandrocods&repo=DeleteDM-instagram&hide_border=true"/>
-  </p>
+  
   <summary><b>Connect with me</b></summary>
   <p align="center">
   <a href="https://fb.com/sandro.putraaa" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="sandrocoputraaa" height="30" width="40" /></a>
