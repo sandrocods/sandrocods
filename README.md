@@ -6,8 +6,6 @@
     <a href="https://www.python.org" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/python.svg" alt="python" width="40" height="40"/></a>
     <a href="https://www.selenium.dev" target="_blank"><img src="https://www.selenium.dev/images/selenium_logo_square_green.png" alt="selenium" width="40" height="40"/></a>
   </p>
-  <summary><b>My Github Stats</b></summary>
-  <img alt="sandrocods github stats" src="https://github-readme-stats.vercel.app/api?username=sandrocods&count_private=true&hide=issues&show_icons=true&hide_border=true&include_all_commits=true&line_height=24"/>
   <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandrocods&layout=compact&hide_border=true"/>
   
   <summary><b>Connect with me</b></summary>
