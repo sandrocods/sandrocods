@@ -21,4 +21,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrocods&show_icons=true&locale=en&layout=compact" alt="sandrocods" /></p>
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandrocods&show_icons=true&locale=en" alt="sandrocods" /></p>
