@@ -21,3 +21,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrocods&show_icons=true&locale=en&layout=compact" alt="sandrocods" /></p>
 <br>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
