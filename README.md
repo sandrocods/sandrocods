@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences **sandroputraa.com**
  
-<h3 align="left">Project 🚀</h3>
+<h3 align="left">Live Project 🚀</h3>
 
 | Website             | Description     |
 | ----------------- | --- |
