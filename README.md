@@ -31,6 +31,7 @@
 | ----------------- | --- |
 | 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass scribd premium content |
 | 🎬 [FlixGo](https://testflsk.sandroputraa.com/) | Demo Scraping website 21cineplex  |
+| 🎬 [IDLIX API](https://idlix-api.vercel.app/) | IDLIX Scrap API Server |
 
 
 
