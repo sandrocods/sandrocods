@@ -29,9 +29,10 @@
 
 | Website             | Description     |
 | ----------------- | --- |
-| 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass scribd premium content |
-| 🎬 [FlixGo](https://testflsk.sandroputraa.com/) | Demo Scraping website 21cineplex  |
-| 🎬 [IDLIX API](https://idlix-api.vercel.app/) | IDLIX Scrap API Server |
+| 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass Scribd Premium Content |
+| 🎬🔥 [FlixGo](https://testflsk.sandroputraa.com/) | Demo Scraping website 21cineplex  |
+| 🎬🔥 [Cinema21 API](https://cinema-21-scrapper.vercel.app/) | Cinema 21 Scrap API Server |
+| 🎬🔥 [IDLIX API](https://idlix-api.vercel.app/) | IDLIX Scrap API Server |
 
 
 
