@@ -17,7 +17,7 @@
 </p>
 
 
-- 🌱 I’m currently learning **Laravel**
+- 🌱 I’m currently learning **Automated Testing**
 
 - 💬 Ask me about **Laravel , Python , PHP**
 
