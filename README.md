@@ -72,7 +72,8 @@
 <img align="center" width="54.5%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandrocods&langs_count=8&hide=Other,Others,CSS,C,C++,markdown,Blade%20Template&title_color=22272E&text_color=22272E&layout=compact&hide_border=truecustom_title=Wakatime%20Total%20Stats%20Since%20May%202022"/>
 </div>
 
-## Activity:
+### :zap: Recent Activity
 <!--START_SECTION:activity-->
+
 <!--END_SECTION:activity-->
 
