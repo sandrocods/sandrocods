@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Sandro Putraa</h1>
+
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sandro Putraa</h1>
 <h3 align="center">Passionate Backend Developer from Sragen Central Java</h3>
 
 <p align="center">
@@ -10,12 +12,17 @@
     
 
 </p>
-<p align="center">
+<p align="center" style="p3">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="center"  src="https://komarev.com/ghpvc/?username=sandrocods&style=for-the-badge">
-    
+</a>
+
+<a href="https://wakatime.com/@4e928ad9-c7b7-4f58-b88a-0f7c3a008f41">
+<img align="center" width="190" height="28" src="https://wakatime.com/badge/user/4e928ad9-c7b7-4f58-b88a-0f7c3a008f41.svg?style=flat-square" alt="Total time coded since May 15 2022" />
+
 </a>
 </p>
+
 
 
 - 🌱 I’m currently learning **Automated Testing**
@@ -26,7 +33,10 @@
 
 - 📄 Know about my experiences **sandroputraa.com**
  
-<h3 align="left">Live Project 🚀</h3>
+
+
+## Live Project 🚀
+
 
 | Website             | Description     |
 | ----------------- | --- |
@@ -37,30 +47,32 @@
 
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://flask.palletsprojects.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+## Languages and Tools:
+
+<img src="https://img.shields.io/badge/-Git-white?style=for-the-badge&logo=git" height="25" /></img>
+<img src="https://img.shields.io/badge/-GitHub-white?style=for-the-badge&logo=github&logoColor=007ACC" height="25" /></img> <img src="https://img.shields.io/badge/-VS%20Code-white?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC" height="25" /></img> <img src="https://img.shields.io/badge/-Pycharm-white?style=for-the-badge&logo=pycharm&logoColor=007ACC" height="25" /></img>
+
+<img src="https://img.shields.io/badge/-Laravel-white?style=for-the-badge&logo=laravel&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-Flask-white?style=for-the-badge&logo=flask&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-Selenium-white?style=for-the-badge&logo=selenium&logoColor=007ACC" height="25" /></img>
+
+<img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-Php-white?style=for-the-badge&logo=php&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-java-white?style=for-the-badge&logo=java&logoColor=007ACC" height="25" /></img>
+<img src="https://img.shields.io/badge/-c++-white?style=for-the-badge&logo=c%2B%2B&logoColor=007ACC" height="25" /></img>
 
 
-</p>
-<br/>
-<h3 align="left">Most Used Language:</h3>
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrocods&show_icons=true&locale=en&layout=compact" alt="sandrocods" />
-</p>
-<br/><br/><br/><br/><br/><br/>
 
 
-<br/><br/>
-<h3 align="left">Coding Activity:</h3>
-<p>
- 
- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sandrocods)](https://github.com/anuraghazra/github-readme-stats)
- 
- </p>
-<br/>
-<h3 align="left">Stats :</h3>
-<p>
+## Stats:
+<div justify-content="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrocods&show_icons=true&theme=radical)
+<img align="center" width="44.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrocods&show_icons=true&locale=en&layout=compact" alt="sandrocods" />
 
-</p>
+<img align="center" width="54.5%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandrocods&langs_count=8&hide=Other,Others,CSS,C,C++,markdown,Blade%20Template&title_color=22272E&text_color=22272E&layout=compact&hide_border=truecustom_title=Wakatime%20Total%20Stats%20Since%20May%202022"/>
+</div>
+
+## Activity:
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
