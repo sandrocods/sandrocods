@@ -8,19 +8,14 @@
     <a href="https://fb.com/sandro.putraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandro.putraaa" height="30" width="40" /></a>
     <a href="https://instagram.com/sandro.putraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandro.putraa" height="30" width="40" /></a>
     <a href="https://wakatime.com/@sandrocods" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime-logo-text-vertical.png" alt="sandro.putraa" height="40" width="40" /></a>
-    
-    
-
+   
 </p>
+
 <p align="center" style="p3">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="center"  src="https://komarev.com/ghpvc/?username=sandrocods&style=for-the-badge">
 </a>
 
-<a href="https://wakatime.com/@4e928ad9-c7b7-4f58-b88a-0f7c3a008f41">
-<img align="center" width="190" height="28" src="https://wakatime.com/badge/user/4e928ad9-c7b7-4f58-b88a-0f7c3a008f41.svg?style=flat-square" alt="Total time coded since May 15 2022" />
-
-</a>
 </p>
 
 
@@ -62,15 +57,6 @@
 <img src="https://img.shields.io/badge/-c++-white?style=for-the-badge&logo=c%2B%2B&logoColor=007ACC" height="25" /></img>
 
 
-
-
-## Stats:
-<div justify-content="center">
-
-<img align="center" width="44.5%" display="flex" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandrocods&show_icons=true&locale=en&layout=compact" alt="sandrocods" />
-
-<img align="center" width="54.5%" display="flex" src="https://github-readme-stats.vercel.app/api/wakatime?username=sandrocods&langs_count=8&hide=Other,Others,CSS,C,C++,markdown,Blade%20Template&title_color=22272E&text_color=22272E&layout=compact&hide_border=truecustom_title=Wakatime%20Total%20Stats%20Since%20May%202022"/>
-</div>
 
 ### Recent Activity
 <!--START_SECTION:activity-->
