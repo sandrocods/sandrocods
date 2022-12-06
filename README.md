@@ -65,7 +65,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-396%20hrs%2019%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-38-blue)
 
@@ -138,5 +138,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/12/2022 14:10:35 UTC
+ Last Updated on 06/12/2022 14:36:39 UTC
 <!--END_SECTION:waka-->
