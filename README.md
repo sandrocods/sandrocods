@@ -65,7 +65,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2035%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-432%20hrs%2050%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
@@ -75,7 +75,7 @@
 
 > 🏆 281 Contributions in the Year 2022
  > 
-> 📦 341.4 kB Used in GitHub's Storage 
+> 📦 341.5 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -140,5 +140,5 @@ JavaScript               2 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022 18:12:24 UTC
+ Last Updated on 28/12/2022 18:41:00 UTC
 <!--END_SECTION:waka-->
