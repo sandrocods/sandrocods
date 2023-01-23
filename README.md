@@ -26,7 +26,7 @@
 
 - 📫 How to reach me **krisandromartinus@gmail.com**
 
-- 📄 Know about my experiences **sandroputraa.com**
+- 📄 Know about my experiences **sandroputra.com**
  
 
 
