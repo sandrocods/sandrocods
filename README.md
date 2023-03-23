@@ -35,7 +35,7 @@
 
 | Website             | Description     |
 | ----------------- | --- |
-| 📑🗓 [API Cek](http://47.88.53.4:1111/) | API Cek Tagihan |
+| 📑🗓 [API Cek](http://47.88.53.4:1111/api/docs) | API Cek Tagihan |
 | 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass Scribd Premium Content |
 | 🎬🔥 [FlixGo](https://testflsk.sandroputraa.com/) | Demo Scraping website 21cineplex  |
 | 🎬🔥 [Cinema21 API](https://cinema-21-scrapper.vercel.app/) | Cinema 21 Scrap API Server |
