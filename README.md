@@ -67,7 +67,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-589%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-31-blue)
 
@@ -77,13 +77,13 @@
 
 > 📦 362.2 kB Used in GitHub's Storage 
  > 
-> 🏆 89 Contributions in the Year 2023
+> 🏆 85 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 49 Public Repositories 
  > 
-> 🔑 1 Private Repositories 
+> 🔑 2 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -140,5 +140,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2023 06:09:26 UTC
+ Last Updated on 06/04/2023 06:34:10 UTC
 <!--END_SECTION:waka-->
