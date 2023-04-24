@@ -35,7 +35,7 @@
 
 | Website             | Description     |
 | ----------------- | --- |
-| 🌐👤 [Portofolio VSCODE](hhttp://47.88.53.4:1872/porto/)| Design UI Web Portofolio Vscode Theme |
+| 🌐👤 [Portofolio VSCODE](http://47.88.53.4:1872/porto/)| Design UI Web Portofolio Vscode Theme |
 | 📑👤 [API Cek Rekening](http://47.88.53.4:3333/api/docs) | API Cek Rekening |
 | 📑🗓 [API Cek](http://47.88.53.4:1111/api/docs) | API Cek Tagihan |
 | 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass Scribd Premium Content |
