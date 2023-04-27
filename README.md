@@ -1,34 +1,25 @@
 
 
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> I'm Sandro Putraa</h1>
-<h3 align="center">Passionate Backend Developer from Sragen Central Java</h3>
+![sandrocods](https://cardivo.vercel.app/api?name=Martinus%20Krisandro%20Perdana%20Putra&description=Junior%20Backend%20Developer&image=https://avatars.githubusercontent.com/u/59155826?v=4&backgroundColor=%23ecf0f1)
+<p align="center" style="p3">
+<a href="https://github.com/antonkomarev/github-profile-views-counter">
+    <img align="center"  src="https://komarev.com/ghpvc/?username=sandrocods&style=for-the-badge">
+</a>
+</p>
 
-<p align="center">
+Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px"> I'm Sandro Putraa
+
+Passionate Backend Developer from Sragen Central Java
+
+## Contact Me at
+
+<p align="left">
     <a href="https://www.linkedin.com/in/sandro-putraa-34b80a19b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sandro-putraa-34b80a19b/" height="30" width="40" /></a>
     <a href="https://fb.com/sandro.putraaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sandro.putraaa" height="30" width="40" /></a>
     <a href="https://instagram.com/sandro.putraa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandro.putraa" height="30" width="40" /></a>
     <a href="https://wakatime.com/@sandrocods" target="blank"><img align="center" src="https://wakatime.com/static/img/wakatime-logo-text-vertical.png" alt="sandro.putraa" height="40" width="40" /></a>
    
 </p>
-
-<p align="center" style="p3">
-<a href="https://github.com/antonkomarev/github-profile-views-counter">
-    <img align="center"  src="https://komarev.com/ghpvc/?username=sandrocods&style=for-the-badge">
-</a>
-
-</p>
-
-
-
-- 🌱 I’m currently learning **Automated Testing**
-
-- 💬 Ask me about **Laravel , Python , PHP**
-
-- 📫 How to reach me **krisandromartinus@gmail.com**
-
-- 📄 Know about my experiences [sandroputra.com](https://sandroputra.com/)
- 
-
 
 ## Live Project 🚀
 
@@ -63,9 +54,7 @@
 
 ### Github Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandrocods&show_icons=true&theme=transparent)
-<!--START_SECTION:activity-->
 
-<!--END_SECTION:activity-->
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
@@ -141,5 +130,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/04/2023 07:07:21 UTC
+ Last Updated on 27/04/2023 06:35:42 UTC
 <!--END_SECTION:waka-->
