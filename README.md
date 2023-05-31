@@ -58,7 +58,7 @@ Passionate Backend Developer from Sragen Central Java
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-730%20hrs%2036%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -66,7 +66,7 @@ Passionate Backend Developer from Sragen Central Java
 
 **🐱 My GitHub Data** 
 
-> 📦 366.1 kB Used in GitHub's Storage 
+> 📦 366.2 kB Used in GitHub's Storage 
  > 
 > 🏆 91 Contributions in the Year 2023
  > 
@@ -131,5 +131,5 @@ Java                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2023 19:32:50 UTC
+ Last Updated on 31/05/2023 20:07:21 UTC
 <!--END_SECTION:waka-->
