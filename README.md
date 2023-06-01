@@ -58,7 +58,7 @@ Passionate Backend Developer from Sragen Central Java
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-733%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -68,7 +68,7 @@ Passionate Backend Developer from Sragen Central Java
 
 > 📦 366.2 kB Used in GitHub's Storage 
  > 
-> 🏆 91 Contributions in the Year 2023
+> 🏆 92 Contributions in the Year 2023
  > 
 > 💼 Opted to Hire
  > 
@@ -121,15 +121,15 @@ Windows                  17 hrs 23 mins      ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   25 repos            █████████████░░░░░░░░░░░░   51.02 % 
-PHP                      17 repos            █████████░░░░░░░░░░░░░░░░   34.69 % 
-HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
-Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Python                   26 repos            █████████████░░░░░░░░░░░░   52.00 % 
+PHP                      17 repos            ████████░░░░░░░░░░░░░░░░░   34.00 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
+JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
 ```
 
 
 
 
- Last Updated on 01/06/2023 19:05:10 UTC
+ Last Updated on 01/06/2023 19:32:48 UTC
 <!--END_SECTION:waka-->
