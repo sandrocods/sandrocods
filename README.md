@@ -58,7 +58,7 @@ Passionate Backend Developer from Sragen Central Java
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-872%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
@@ -130,5 +130,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/07/2023 09:08:20 UTC
+ Last Updated on 12/07/2023 09:33:22 UTC
 <!--END_SECTION:waka-->
