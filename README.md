@@ -58,7 +58,7 @@ Passionate Backend Developer from Sragen Central Java
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-916%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-917%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -123,12 +123,12 @@ Windows                  28 hrs 32 mins      ███████████�
 Python                   26 repos            ████████████░░░░░░░░░░░░░   50.00 % 
 PHP                      18 repos            █████████░░░░░░░░░░░░░░░░   34.62 % 
 HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+JavaScript               3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 Java                     1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
 ```
 
 
 
 
- Last Updated on 25/07/2023 14:07:14 UTC
+ Last Updated on 25/07/2023 14:33:00 UTC
 <!--END_SECTION:waka-->
