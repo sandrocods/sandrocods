@@ -1,6 +1,6 @@
 
 
-![sandrocods](https://cardivo.vercel.app/api?name=Martinus%20Krisandro%20Perdana%20Putra&description=Junior%20Backend%20Developer&image=https://avatars.githubusercontent.com/u/59155826?v=4&backgroundColor=%23ecf0f1)
+![sandrocods](https://cardivo.vercel.app/api?name=Martinus%20Krisandro%20Perdana%20Putra&description=Software%20Automation%20Engineer%20%7C%7C%20Full%20Stack%20Web%20Developer&image=https://avatars.githubusercontent.com/u/59155826?v=4&backgroundColor=%23ecf0f1)
 <p align="center" style="p3">
 <a href="https://github.com/antonkomarev/github-profile-views-counter">
     <img align="center"  src="https://komarev.com/ghpvc/?username=sandrocods&style=for-the-badge">
@@ -10,7 +10,7 @@
 
 
 <h1 align="center" > Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Sandro Putraa </h1>
-<h3 align="center" style="p3">Passionate Backend Developer & Software Automation Engineer from Sragen Central Java </h3>
+<h3 align="center" style="p3">Passionate Software Automation Engineer & Full Stack Web Developer </h3>
 
 
 
@@ -30,11 +30,6 @@
 
 | Website             | Description     |
 | ----------------- | --- |
-| 🌐👤 [Portofolio VSCODE](http://47.88.53.4:1872/porto/)| Design UI Web Portofolio Vscode Theme |
-| 📑👤 [API Cek Rekening](http://47.88.53.4:3333/api/docs) | API Cek Rekening |
-| 📑🗓 [API Cek](http://47.88.53.4:1111/api/docs) | API Cek Tagihan |
-| 📚 [Scribd Viewer](http://sandroputraa.my.id/scribd/) | Bypass Scribd Premium Content |
-| 🎬🔥 [FlixGo](https://testflsk.sandroputraa.com/) | Demo Scraping website 21cineplex  |
 | 🎬🔥 [Cinema21 API](https://cinema-21-scrapper.vercel.app/) | Cinema 21 Scrap API Server |
 | 🎬🔥 [IDLIX API](https://idlix-api.vercel.app/) | IDLIX Scrap API Server |
 
