@@ -72,9 +72,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 53 Public Repositories 
+> 📜 54 Public Repositories 
  > 
-> 🔑 4 Private Repositories 
+> 🔑 3 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
@@ -128,5 +128,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/05/2024 14:34:02 UTC
+ Last Updated on 15/05/2024 15:08:38 UTC
 <!--END_SECTION:waka-->
