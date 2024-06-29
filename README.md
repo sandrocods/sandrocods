@@ -66,7 +66,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 683.5 kB Used in GitHub's Storage 
+> 📦 609.0 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2024
  > 
@@ -130,5 +130,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/06/2024 10:34:01 UTC
+ Last Updated on 29/06/2024 11:08:07 UTC
 <!--END_SECTION:waka-->
