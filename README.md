@@ -58,7 +58,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C248%20hrs%2053%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C249%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
@@ -67,6 +67,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 609.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 11 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -128,5 +130,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2024 09:10:32 UTC
+ Last Updated on 25/07/2024 09:33:03 UTC
 <!--END_SECTION:waka-->
