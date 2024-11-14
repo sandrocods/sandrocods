@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C521%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -131,5 +131,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2024 13:40:26 UTC
+ Last Updated on 14/11/2024 14:09:56 UTC
 <!--END_SECTION:waka-->
