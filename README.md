@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C606%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C608%20hrs%2017%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -104,8 +104,8 @@ Sunday                   61 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   6 hrs 51 mins       ██████████████████░░░░░░░   71.43 % 
-Text                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   19.15 % 
+Python                   6 hrs 41 mins       █████████████████░░░░░░░░   69.65 % 
+Text                     1 hr 59 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
 JSON                     38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 JavaScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 Other                    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
@@ -131,5 +131,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/02/2026 17:51:14 UTC
+ Last Updated on 11/02/2026 18:49:25 UTC
 <!--END_SECTION:waka-->
