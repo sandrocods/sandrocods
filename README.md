@@ -104,17 +104,16 @@ Sunday                   61 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   22 mins             ███████████████████░░░░░░   76.68 % 
-HTML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   23.21 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Python                   20 mins             ███████████████████░░░░░░   74.96 % 
+HTML                     6 mins              ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 .env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-PyCharm                  29 mins             █████████████████████████   100.00 % 
+PyCharm                  27 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  29 mins             █████████████████████████   100.00 % 
+Windows                  27 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -130,5 +129,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 26/07/2026 17:21:22 UTC
+ Last Updated on 26/07/2026 17:48:28 UTC
 <!--END_SECTION:waka-->
