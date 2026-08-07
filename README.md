@@ -59,6 +59,8 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C765%20hrs%2041%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.07%20million%20lines%20of%20code-blue?style=flat)
@@ -75,6 +77,50 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                218 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
+🌆 Daytime                248 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
+🌃 Evening                297 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
+🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
+Tuesday                  215 commits         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
+Thursday                 229 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
+Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   49 mins             ████████████████████████░   94.57 % 
+textmate                 1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+
+🔥 Editors: 
+PyCharm                  52 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  52 mins             █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -88,5 +134,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 23:45:19 UTC
+ Last Updated on 07/08/2026 01:08:06 UTC
 <!--END_SECTION:waka-->
