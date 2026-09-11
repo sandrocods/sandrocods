@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C771%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C772%20hrs%2029%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -104,17 +104,14 @@ Sunday                   61 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   1 hr 28 mins        █████████████████████░░░░   85.89 % 
-HTML                     10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-textmate                 3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
-.env file                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Python                   1 hr 8 mins         ████████████████████░░░░░   79.08 % 
+HTML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 43 mins        █████████████████████████   100.00 % 
+PyCharm                  1 hr 26 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 43 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -136,5 +133,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/09/2026 17:03:57 UTC
+ Last Updated on 11/09/2026 17:32:37 UTC
 <!--END_SECTION:waka-->
