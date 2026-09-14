@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C772%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C772%20hrs%2040%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -77,49 +77,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                218 commits         ██████░░░░░░░░░░░░░░░░░░░   23.90 % 
-🌆 Daytime                248 commits         ███████░░░░░░░░░░░░░░░░░░   27.19 % 
-🌃 Evening                297 commits         ████████░░░░░░░░░░░░░░░░░   32.57 % 
-🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.91 % 
-Tuesday                  215 commits         ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
-Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.86 % 
-Thursday                 229 commits         ██████░░░░░░░░░░░░░░░░░░░   25.11 % 
-Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Sunday                   61 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.69 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   1 hr 12 mins        ████████████████████░░░░░   80.02 % 
-HTML                     18 mins             █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
-
-🔥 Editors: 
-PyCharm                  1 hr 30 mins        █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  1 hr 30 mins        █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -133,5 +90,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 14/09/2026 17:04:21 UTC
+ Last Updated on 14/09/2026 17:32:50 UTC
 <!--END_SECTION:waka-->
