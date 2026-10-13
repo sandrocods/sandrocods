@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C828%20hrs%2012%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C828%20hrs%2021%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-6%20hrs%2048%20mins-blue?style=flat)
 
@@ -106,26 +106,26 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   4 hrs 47 mins       ███████████░░░░░░░░░░░░░░   42.92 % 
-Other                    2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-Java                     2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
-JavaScript               28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.33 % 
+Python                   4 hrs 23 mins       ███████████░░░░░░░░░░░░░░   42.31 % 
+Other                    2 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   26.98 % 
+Java                     2 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Markdown                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🔥 Editors: 
-Claude Code              6 hrs 18 mins       ██████████████░░░░░░░░░░░   56.46 % 
-PyCharm                  4 hrs 51 mins       ███████████░░░░░░░░░░░░░░   43.54 % 
+Claude Code              6 hrs 18 mins       ███████████████░░░░░░░░░░   60.79 % 
+PyCharm                  4 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   39.21 % 
 
 💻 Operating System: 
-Windows                  11 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 48 mins (60.92%)
+⏱ AI Coding Time: 6 hrs 48 mins (65.59%)
 
-✍️ 1,279 lines written by AI, 6,759 lines written by hand (15.91% AI-written)
+✍️ 1,279 lines written by AI, 1,631 lines written by hand (43.95% AI-written)
 
 🔤 51,479,720 Input Tokens, 228,833 Output Tokens
 
@@ -138,10 +138,10 @@ DeepSeek                 456 lines           █████████░░�
 Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 15.91% of written lines came from AI
+⚖️ Balanced with AI — 43.95% of written lines came from AI
 📚 Verbose Prompter — average 7,071 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 93.43% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 84.69% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -157,5 +157,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/10/2026 17:04:49 UTC
+ Last Updated on 13/10/2026 17:38:26 UTC
 <!--END_SECTION:waka-->
