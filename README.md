@@ -79,6 +79,69 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                218 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+🌆 Daytime                249 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
+🌃 Evening                298 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
+🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Tuesday                  215 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
+Thursday                 230 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
+Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   5 hrs 56 mins       ████████████████░░░░░░░░░   62.14 % 
+Text                     1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+Java                     29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
+Other                    29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+JavaScript               26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+
+🔥 Editors: 
+PyCharm                  7 hrs 5 mins        ███████████████████░░░░░░   74.08 % 
+Claude Code              2 hrs 28 mins       ██████░░░░░░░░░░░░░░░░░░░   25.92 % 
+
+💻 Operating System: 
+Windows                  9 hrs 34 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 2 hrs 29 mins (26.0%)
+
+✍️ 2,376 lines written by AI, 2,003 lines written by hand (54.26% AI-written)
+
+🔤 7,583,708 Input Tokens, 228,244 Output Tokens
+
+💵 $99.53 Estimated AI Cost This Week
+
+🧠 9 AI Sessions, 52 AI Prompts
+
+DeepSeek                 2,378 lines         █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+⚖️ Balanced with AI — 54.26% of written lines came from AI
+📚 Verbose Prompter — average 12,837 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🔍 Hands-On Reviewer — 61.51% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -92,5 +155,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 15/10/2026 17:35:06 UTC
+ Last Updated on 15/10/2026 18:05:35 UTC
 <!--END_SECTION:waka-->
