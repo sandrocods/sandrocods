@@ -59,7 +59,7 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C835%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C839%20hrs%2032%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs-blue?style=flat)
 
@@ -106,26 +106,26 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   6 hrs 39 mins       ███████████████████░░░░░░   76.29 % 
-Text                     1 hr 30 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.22 % 
-HTML                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
-Other                    12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Bash                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   8 hrs 17 mins       ████████████████░░░░░░░░░   63.61 % 
+Text                     1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.51 % 
+JavaScript               1 hr 26 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
+textmate                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+HTML                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 
 🔥 Editors: 
-PyCharm                  8 hrs 30 mins       ████████████████████████░   97.60 % 
-Claude Code              12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
+PyCharm                  12 hrs 49 mins      █████████████████████████   98.39 % 
+Claude Code              12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
 
 💻 Operating System: 
-Windows                  8 hrs 43 mins       █████████████████████████   100.00 % 
+Windows                  13 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 12 mins (2.4%)
+⏱ AI Coding Time: 12 mins (1.61%)
 
-✍️ 0 lines written by AI, 2,239 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 8,118 lines written by hand (0.0% AI-written)
 
 🔤 896,838 Input Tokens, 3,994 Output Tokens
 
@@ -155,5 +155,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 17:04:00 UTC
+ Last Updated on 17/10/2026 17:32:26 UTC
 <!--END_SECTION:waka-->
