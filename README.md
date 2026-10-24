@@ -79,51 +79,6 @@
  > 
 > 🔑 7 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                218 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-🌆 Daytime                249 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌃 Evening                298 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Tuesday                  215 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Thursday                 230 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Jakarta
-
-💬 Programming Languages: 
-Python                   7 hrs 35 mins       █████████████████░░░░░░░░   66.65 % 
-JavaScript               1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-HTML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
-textmate                 58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 % 
-
-🔥 Editors: 
-PyCharm                  11 hrs 23 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  11 hrs 23 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -137,5 +92,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 24/10/2026 17:04:07 UTC
+ Last Updated on 24/10/2026 17:33:39 UTC
 <!--END_SECTION:waka-->
