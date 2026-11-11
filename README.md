@@ -59,17 +59,17 @@
 
 ### Waka Stats :
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C854%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C862%20hrs%2011%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-7%20hrs-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.07%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 685.3 kB Used in GitHub's Storage 
+> 📦 685.9 kB Used in GitHub's Storage 
  > 
 > 🏆 2 Contributions in the Year 2026
  > 
@@ -82,21 +82,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                218 commits         ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-🌆 Daytime                249 commits         ███████░░░░░░░░░░░░░░░░░░   27.24 % 
-🌃 Evening                298 commits         ████████░░░░░░░░░░░░░░░░░   32.60 % 
-🌙 Night                  149 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
+🌞 Morning                229 commits         ██████░░░░░░░░░░░░░░░░░░░   23.54 % 
+🌆 Daytime                259 commits         ███████░░░░░░░░░░░░░░░░░░   26.62 % 
+🌃 Evening                325 commits         ████████░░░░░░░░░░░░░░░░░   33.40 % 
+🌙 Night                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.44 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   63 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
-Tuesday                  215 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
-Wednesday                172 commits         █████░░░░░░░░░░░░░░░░░░░░   18.82 % 
-Thursday                 230 commits         ██████░░░░░░░░░░░░░░░░░░░   25.16 % 
-Friday                   108 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
-Saturday                 64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
-Sunday                   62 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+Tuesday                  235 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Wednesday                190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.53 % 
+Thursday                 235 commits         ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
 
 
@@ -106,17 +106,17 @@ Sunday                   62 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   7 hrs               ███████████████████████░░   92.73 % 
-HTML                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
-Text                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Bash                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
-JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
+Python                   7 hrs 40 mins       █████████████████████████   99.34 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharm                  7 hrs 33 mins       █████████████████████████   100.00 % 
+PyCharm                  7 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  7 hrs 33 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -138,5 +138,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/11/2026 20:02:33 UTC
+ Last Updated on 11/11/2026 08:28:43 UTC
 <!--END_SECTION:waka-->
