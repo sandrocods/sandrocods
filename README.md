@@ -94,6 +94,52 @@ I enjoy developing reliable applications, designing API architectures, and build
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                229 commits         ██████░░░░░░░░░░░░░░░░░░░   23.51 % 
+🌆 Daytime                260 commits         ███████░░░░░░░░░░░░░░░░░░   26.69 % 
+🌃 Evening                325 commits         ████████░░░░░░░░░░░░░░░░░   33.37 % 
+🌙 Night                  160 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   68 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Tuesday                  235 commits         ██████░░░░░░░░░░░░░░░░░░░   24.13 % 
+Wednesday                190 commits         █████░░░░░░░░░░░░░░░░░░░░   19.51 % 
+Thursday                 236 commits         ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Friday                   115 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.78 % 
+Sunday                   64 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Jakarta
+
+💬 Programming Languages: 
+Python                   6 hrs 30 mins       ██████████████████████░░░   87.63 % 
+textmate                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.60 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
+HTML                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Text                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+
+🔥 Editors: 
+PyCharm                  7 hrs 25 mins       █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  7 hrs 25 mins       █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -107,5 +153,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2026 17:33:19 UTC
+ Last Updated on 16/11/2026 18:04:21 UTC
 <!--END_SECTION:waka-->
