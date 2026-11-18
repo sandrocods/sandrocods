@@ -21,7 +21,7 @@ I enjoy developing reliable applications, designing API architectures, and build
 ## Connect With Me
 
 <p align="left">
-  <a href="https://t.me/sandroputraa">
+  <a href="https://t.me/sandroputraaa">
     <img src="https://img.shields.io/badge/Telegram-Connect-64748b?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="https://www.linkedin.com/in/sandro-putraa-34b80a19b/">
