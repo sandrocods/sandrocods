@@ -121,17 +121,17 @@ Sunday                   64 commits          ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Jakarta
 
 💬 Programming Languages: 
-Python                   8 hrs 44 mins       ████████████████████░░░░░   80.42 % 
-HTML                     1 hr 57 mins        ████░░░░░░░░░░░░░░░░░░░░░   18.00 % 
-Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
+Python                   8 hrs 54 mins       █████████████████████░░░░   84.55 % 
+HTML                     1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.17 % 
+Text                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-PyCharm                  10 hrs 52 mins      █████████████████████████   100.00 % 
+PyCharm                  10 hrs 31 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 52 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -153,5 +153,5 @@ Java                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 25/11/2026 17:03:04 UTC
+ Last Updated on 25/11/2026 17:32:59 UTC
 <!--END_SECTION:waka-->
